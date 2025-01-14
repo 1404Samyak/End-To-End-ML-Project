@@ -1,1 +1,1 @@
-This repository contains all the files and packages of an END TO END machine learning project
+This repository contains all the the code files and packages required for an END TO END machine learning project
